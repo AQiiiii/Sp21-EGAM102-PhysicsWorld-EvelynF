@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/UnityDemo/SpaceGame/Packages/manifest.json
+    m_FilePath: C:/Users/Lenovo/Documents/GitHub/Sp21-EGAM102-PhysicsWorld-Evelyn/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,12 +8,12 @@ m_ProjectFiles:
       ticks: 637469673330158041
     m_Hash: 3896798357
   m_LockFileStatus:
-    m_FilePath: E:/UnityDemo/SpaceGame/Packages/packages-lock.json
+    m_FilePath: C:/Users/Lenovo/Documents/GitHub/Sp21-EGAM102-PhysicsWorld-Evelyn/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637469680646049392
+      ticks: 637469697397553487
     m_Hash: 1157503858
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.2.6
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.animation@4.2.6
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.animation@4.2.6
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -103,7 +103,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -164,7 +164,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -294,7 +294,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.4
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -428,7 +428,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.5.2
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.ads@3.5.2
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.ads@3.5.2
       assetPath: Packages/com.unity.ads
       name: com.unity.ads
       displayName: Advertisement
@@ -486,7 +486,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.5.3
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.analytics@3.5.3
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.analytics@3.5.3
       assetPath: Packages/com.unity.analytics
       name: com.unity.analytics
       displayName: Analytics Library
@@ -544,7 +544,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -603,7 +603,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -662,7 +662,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -711,7 +711,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -760,7 +760,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.2.1
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.purchasing@2.2.1
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.purchasing@2.2.1
       assetPath: Packages/com.unity.purchasing
       name: com.unity.purchasing
       displayName: In App Purchasing
@@ -804,10 +804,66 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.18
+        - 0.0.19
+        - 2.0.0
+        - 2.0.1
+        - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
+        - 2.1.1
+        - 2.2.0
         - 2.2.1
+        - 2.2.2
+        - 3.0.0-pre.3
+        - 3.0.0-pre.4
         compatible:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.9
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 0.0.17
+        - 0.0.18
+        - 0.0.19
+        - 2.0.0
+        - 2.0.1
+        - 2.0.3
+        - 2.0.5
+        - 2.0.6
+        - 2.1.0
+        - 2.1.1
+        - 2.2.0
         - 2.2.1
-        verified: 2.2.1
+        - 2.2.2
+        - 3.0.0-pre.3
+        - 3.0.0-pre.4
+        verified: 2.2.2
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -834,7 +890,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637414952740000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -847,7 +903,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.19
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.test-framework@1.1.19
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.test-framework@1.1.19
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -908,7 +964,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -988,7 +1044,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1106,7 +1162,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.1.6
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.6
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.6
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -2905,7 +2961,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.5
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.ext.nunit@1.0.5
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.ext.nunit@1.0.5
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2956,7 +3012,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3007,7 +3063,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.1
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.common@3.0.1
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.common@3.0.1
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3072,7 +3128,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.2
       source: 1
-      resolvedPath: E:\UnityDemo\SpaceGame\Library\PackageCache\com.unity.2d.path@3.0.2
+      resolvedPath: C:\Users\Lenovo\Documents\GitHub\Sp21-EGAM102-PhysicsWorld-Evelyn\Library\PackageCache\com.unity.2d.path@3.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3119,5 +3175,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: E:/UnityDemo/SpaceGame/Packages
+m_ProjectPath: C:/Users/Lenovo/Documents/GitHub/Sp21-EGAM102-PhysicsWorld-Evelyn/Packages
 m_EditorVersion: 2020.1.17f1c1 (8133cd15099c)

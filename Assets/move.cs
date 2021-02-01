@@ -4,66 +4,70 @@ using UnityEngine;
 
 public class move : MonoBehaviour
 {
-
-    public float MovementStrength, JumpStrength;
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
+   
+    public float MoveStren, JumpStre;
+    
+    private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Rigidbody2D thisRigidbody;
-
             thisRigidbody = GetComponent<Rigidbody2D>();
+            thisRigidbody.AddForce(JumpStre * Vector3.up, ForceMode2D.Impulse);
 
-            thisRigidbody.AddForce(JumpStrength * Vector3.up, ForceMode2D.Impulse);
         }
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            Rigidbody2D thisRigidbody;
-
-            thisRigidbody = GetComponent<Rigidbody2D>();
-
-            thisRigidbody.gravityScale *= -1;
-        }
-
 
     }
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
         if (Input.GetKey(KeyCode.D))
         {
             Rigidbody2D thisRigidbody;
-
             thisRigidbody = GetComponent<Rigidbody2D>();
+            thisRigidbody.AddForce(MoveStren * Vector3.right, ForceMode2D.Force);
 
-            thisRigidbody.AddForce(MovementStrength * Vector3.right, ForceMode2D.Force);
-
-            GameObject Eyeball = GameObject.Find("Eyebal1");
-            Eyeball.transform.localScale = new Vector3(1, 1, 1);
         }
-
-
         if (Input.GetKey(KeyCode.A))
         {
             Rigidbody2D thisRigidbody;
-
             thisRigidbody = GetComponent<Rigidbody2D>();
-
-            thisRigidbody.AddForce(MovementStrength * Vector3.left, ForceMode2D.Force);
-
-            GameObject Eyeball = GameObject.Find("Eyeball");
-
-            Eyeball.transform.localScale = new Vector3(-1, 1, 1);
+            thisRigidbody.AddForce(MoveStren* Vector3.left, ForceMode2D.Force);
+        }
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "a53")
+        {
+            sound.instance.A53();
+   
+        }
+        
+        if (collision.gameObject.tag == "a54")
+        {
+            sound.instance.A54();
+        }
+        if (collision.gameObject.tag == "a55")
+        {
+            sound.instance.A55();
+        }
+        if (collision.gameObject.tag == "a56")
+        {
+            sound.instance.A56();
+        }
+        if (collision.gameObject.tag == "a57")
+        {
+            sound.instance.A57();
+        }
+        if (collision.gameObject.tag == "a61")
+        {
+            sound.instance.A61();
         }
 
-
     }
+
+   
+
+
 
 }

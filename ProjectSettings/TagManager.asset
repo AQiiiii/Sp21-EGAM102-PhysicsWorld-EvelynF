@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - a53
+  - a54
+  - a55
+  - a56
+  - a57
+  - a61
   layers:
   - Default
   - TransparentFX
