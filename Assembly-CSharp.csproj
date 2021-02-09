@@ -39,6 +39,7 @@
      <Compile Include="Assets\sound.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\vertex.cs" />
+     <Compile Include="Assets\frictionn.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.17f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
