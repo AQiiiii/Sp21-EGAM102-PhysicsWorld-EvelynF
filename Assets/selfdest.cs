@@ -9,7 +9,7 @@ public class selfdest : MonoBehaviour
     private float TimeOfDeath;
 
     // Start is called before the first frame update
-    void Start()
+    void Start() 
     {
         TimeOfDeath = Time.time + Lifespan;
     }
